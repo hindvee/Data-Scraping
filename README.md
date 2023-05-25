@@ -10,6 +10,6 @@ Through this task, I  aim to extract data from websites to gather information ab
 5. HTMLSessions: It is a class under the requests_html library.  HTMLSession is a class that provides a convenient way to make HTTP requests and interact with HTML content. It extends the functionality of the requests library by incorporating a built-in HTML parsing engine. <br>
 6. The find() method is used to extract elements from the HTML using CSS selectors. <br>
 7. .html is an extension that is used to read the code of HTML pages.<br>
-8. In order to store the data, I tried using sqlite library.
+* In order to store the data, I tried using sqlite library.
 # Conclusion
 Through this task I got a hands on experience of using python for web scraping. I came across many useful libraries like requests_html, BeautifulSoup, Sqlite etc, and was able make best possible choice to complete the task. I encountered many deadends, but was dedicated to work to my full potential. The project provided an excellent opportunity for me to acquire a wealth of knowledge and learn a multitude of things.
